@@ -3,10 +3,11 @@
 ####This phonegap project is both a personal career advancement tool (I hope) and a blueprint for anyone else who wants to create a resume app.
 
 
-For the time being, I allow anyone to participate in this project, fork their own, do whatever, as long as you don't sell this app, re-engineer it and then distribute or sell it for profit.
+For the time being, I allow anyone to participate in this project, fork their own, do whatever, as long as you don't sell or distribute this app "as is", re-engineer it and then distribute or sell it for profit.
 
 As long as you will use this app for its intended purposes (as a personal job search tool and a learning tool to better understand phonegap), you are free to use it as you see fit.
 
+Inheritance of the original code of use, any accompanying licenses, etc. is expected and encouraged.
 
 
 <br/><br/>
